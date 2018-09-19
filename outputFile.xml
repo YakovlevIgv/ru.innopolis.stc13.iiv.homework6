@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serialize.Capucin>
+  <tailLength type="int" value="40" />
+  <charming type="int" value="50" />
+  <harmfull type="int" value="1" />
+  <footsize type="int" value="38" />
+</serialize.Capucin>
